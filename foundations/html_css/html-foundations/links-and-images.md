@@ -210,10 +210,10 @@ As a bit of practice, add an alt attribute to the dog image we added to the `odi
 ### Assignment
 
 <div class="lesson-content__panel" markdown="1">
-1. [Watch Kevin Powell's HTML Links Video](https://www.youtube.com/watch?v=tsEQgGjSmkM&list=PL4-IK0AVhVjM0xE0K2uZRvsM7LkIhsPT-&index=5).
-2. [Watch Kevin Powell's HTML Images Video](https://www.youtube.com/watch?v=0xoztJCHpbQ&list=PL4-IK0AVhVjM0xE0K2uZRvsM7LkIhsPT-&index=6).
-3. [Watch Kevin Powell's File Structure Video](https://www.youtube.com/watch?v=ta3Oxx7Yqbo&list=PL4-IK0AVhVjM0xE0K2uZRvsM7LkIhsPT-&index=7).
-4. [Read about the four main image formats that can be used on the web](https://www.internetingishard.com/html-and-css/links-and-images/#image-formats).
+1. <a href="https://www.youtube.com/watch?v=tsEQgGjSmkM&list=PL4-IK0AVhVjM0xE0K2uZRvsM7LkIhsPT-&index=5" target="_blank">[Watch Kevin Powell's HTML Links Video].</a>
+2. <a href="https://www.youtube.com/watch?v=0xoztJCHpbQ&list=PL4-IK0AVhVjM0xE0K2uZRvsM7LkIhsPT-&index=6" target="_blank">[Watch Kevin Powell's HTML Images Video].</a>
+3. <a href="https://www.youtube.com/watch?v=ta3Oxx7Yqbo&list=PL4-IK0AVhVjM0xE0K2uZRvsM7LkIhsPT-&index=7" target="_blank">[Watch Kevin Powell's File Structure Video].</a>
+4. <a href="https://www.internetingishard.com/html-and-css/links-and-images/#image-formats" target="_blank">[Read about the four main image formats that can be used on the web].</a>
 </div>
 
 ### Knowledge Check
@@ -233,5 +233,5 @@ This section contains questions for you to check your understanding of this less
 
 This section contains helpful links to related content. It isn’t required, so consider it supplemental.
 
-- [Interneting is hard's treatment on HTML links and images](https://www.internetingishard.com/html-and-css/links-and-images/)
-- [What happened the day Google decided links including (`/`) were malware](https://www.itpro.co.uk/609724/google-apologises-after-blacklisting-entire-internet)
+- <a href="https://www.internetingishard.com/html-and-css/links-and-images/" target="_blank">[Interneting is hard's treatment on HTML links and images]</a>
+- <a href="https://www.itpro.co.uk/609724/google-apologises-after-blacklisting-entire-internet" target="_blank">[What happened the day Google decided links including (`/`) were malware]</a>
